@@ -81,6 +81,8 @@ Total transaksi dan pendapatan
 Barang yang paling sering terjual
 
 📂 Struktur Proyek
+## 📂 Struktur Proyek
+```text
 Mini-Project-Toko/
 ├── assets/                  # Folder untuk file frontend (CSS & JS)
 │   ├── script.js            # Logika interaktif (JavaScript)
@@ -110,6 +112,7 @@ Mini-Project-Toko/
 ├── composer.json            # File konfigurasi Composer
 ├── composer.lock            # File versi paket Composer
 └── TODO.md                  # Catatan tugas pengembangan (opsional)
+
 
 👨‍💻 Pengembang
 
